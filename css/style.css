@@ -201,3 +201,48 @@ nav > ul > li:hover ul {
   border-radius: 20px;
   box-shadow: 15px 15px 30px black;
 }
+.donation-description {
+  width: 100vw;
+  padding-top: 50px;
+}
+.donation-description h1 {
+  font-size: 50px;
+  text-align: center;
+  text-transform: capitalize;
+}
+.donation-description p {
+  width: 600px;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+.donation-box-container {
+  width: 20%;
+  margin-left: 50px;
+  background-color: darkcyan;
+  border: 5px ridge gray;
+}
+.donation-box-image img {
+  width: 270px;
+  height: 150px;
+}
+.donation-box-description {
+  padding: 10px 20px;
+  color: white;
+}
+.donation-box-description h3 {
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.donation-box-descriptionp {
+  padding-bottom: 20px;
+}
+.donation-box-description a {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+.donation-box-description a:hover {
+  color: black;
+}
