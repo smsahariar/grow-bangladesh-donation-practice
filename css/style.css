@@ -246,3 +246,89 @@ nav > ul > li:hover ul {
 .donation-box-description a:hover {
   color: black;
 }
+
+.volunteer {
+  width: 80vw;
+  height: 220px;
+  border: 5px ridge gray;
+  margin: 250px auto;
+  background-image: url("../images/volunteer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 20px 20px 10px gray;
+}
+.volunteer-box {
+  width: 30%;
+  margin-right: 35px;
+  color: white;
+}
+.volunteer-box h1 {
+  font-size: 40px;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  text-align: center;
+}
+.volunteer-box h2 {
+  font-size: 30px;
+  text-align: center;
+}
+.spcl-box {
+  height: 300px;
+}
+.contact {
+  margin-bottom: 400px;
+}
+.contact h1 {
+  font-size: 50px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+.contact-us {
+  padding-top: 40px;
+  height: 100vh;
+}
+article h3 {
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+article a {
+  text-decoration: none;
+  color: darkcyan;
+  font-weight: 700;
+}
+article p {
+  font-size: 20px;
+}
+aside h3 {
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+aside input {
+  width: 505px;
+  height: 40px;
+  padding-left: 20px;
+  font-size: 18px;
+  outline-color: darkcyan;
+  margin-bottom: 20px;
+}
+aside textarea {
+  padding-left: 20px;
+  padding-top: 10px;
+  font-size: 18px;
+  outline-color: darkcyan;
+  margin-bottom: 15px;
+}
+footer {
+  background-color: black;
+  height: 150px;
+}
+footer h1 {
+  color: darkcyan;
+  font-size: 40px;
+  text-align: center;
+  padding: 20px 0;
+}
+footer p {
+  color: white;
+  text-align: center;
+}
